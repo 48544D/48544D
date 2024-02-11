@@ -29,4 +29,4 @@ I am incredibly passionate🔥 about web development💻. The endless opportunit
 
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=48544D&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=48544D)  
+![48544D's Stats](https://github-readme-stats.vercel.app/api?username=48544D&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![48544D's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=48544D&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
