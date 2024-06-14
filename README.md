@@ -24,8 +24,6 @@ The idea of working with ServiceNow ignites a new level of excitement within me�
 <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height='40' align="left" style="margin-right: 40px"> <img src='https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png' height='40'>
 ### 💻 Native languages 💻
 <img src='https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png' height='40' align="left" style="margin-right: 40px"> <img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' height='40' align="left" style="margin-right: 40px"> <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' height='40' align="left" style="margin-right: 40px"> <img src='https://www.svgrepo.com/show/452088/php.svg' height='40'>
-### 🧬 Data science 🧬
-<img src='https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png' height='40' align="left" style="margin-right: 40px"> <img src='https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/pandas.png?itok=JxR7Cnak&timestamp=1645740797' height='40' align="left" style="margin-right: 40px"> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' height='40'>
 
 <hr>
 
