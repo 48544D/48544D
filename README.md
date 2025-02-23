@@ -12,8 +12,6 @@ Ultimately, this GitHub portfolio is more than just a collection of code—it's 
 # 💡 Skills and Interests 💡
 ### 🌐 Web Development 🌐
 I am incredibly passionate🔥 about web development💻. The endless opportunities to create interactive and visually appealing digital experiences excite me💡. Each line of code feels like a chance to turn ideas into reality, combining creativity🎨 with technical skills🛠️. Whether I'm designing user interfaces or improving backend systems, the dynamic nature of web development keeps me engaged🚀. Every project presents a chance to learn, innovate💡, and contribute to the ever-changing online world🌐.
-### ⚙️ ServiceNow ⚙️
-The idea of working with ServiceNow ignites a new level of excitement within me🔍. Just as with web development💻, I see endless possibilities in ServiceNow to streamline processes and make impactful improvements💡. From enhancing customer service workflows to optimizing IT operations📈, the potential applications fascinate me🌟. With each step forward in my journey, I am eager to immerse myself further into the world of ServiceNow🧠, driven by a big desire to make a difference through innovative solutions🚀.
 
 # 🔧 Languages and Technologies 🔧
 ### 🖥️ Frontend 🖥️
